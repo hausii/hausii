@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hausii
-- 👀 You can find my cycling, hiking, taking pictures or in front of a computer. 
+- 👀 You can find me cycling, hiking, taking pictures or in front of a computer. 
 - 🌱 I’m currently working on my vibe coding skills
 - 📷 Want to check out my photography portfolio - go to https://hanneshausegger.com
 - 🚴‍♂️ You can follow my outdoor activities here https://www.strava.com/athletes/6832717
