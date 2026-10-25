@@ -6,8 +6,9 @@ Founder, builder, and outdoors person. When I'm not in front of a computer you'l
 
 - **[Sitos](https://Sitos.app)** — agent-first nutrition tracker. Log meals and track macros through AI assistants via MCP, with web and iOS apps.
 - **[Theon](https://Theon.fit)** — AI-centric strength-training tracker. Log workouts, track personal records, and let your AI coach read your history via MCP.
+- **[Grindset](https://grindset.cc)** — espresso dial-in tracker. Log shots, keep grind settings per coffee and grinder, and get a predicted starting grind for a new bag — from iOS, the web, or your AI assistant via MCP.
 
-Both are built on the idea that your training and nutrition data should be readable by the AI tools you already use, not locked in yet another app.
+All three are built on the idea that your training, nutrition and coffee data should be readable by the AI tools you already use, not locked in yet another app.
 
 ## 🛠 Tools I reach for
 
